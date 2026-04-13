@@ -113,11 +113,6 @@ http://localhost:5173/
 
 ## Screenshots
 
-### Before:
-![Before UI](before-ui.png)
-
-
-### After:
 <img width="1919" height="909" alt="Screenshot 2026-04-13 224445" src="https://github.com/user-attachments/assets/279e220c-a9cd-4edf-9552-d1566ddadce7" />
 <img width="1919" height="917" alt="Screenshot 2026-04-13 224611" src="https://github.com/user-attachments/assets/1e20d0b4-c220-4397-a3ba-c07fb0ea8bac" />
 <img width="1919" height="911" alt="Screenshot 2026-04-13 224825" src="https://github.com/user-attachments/assets/230feddd-88f0-497c-8ae1-e875f0370fa3" />
